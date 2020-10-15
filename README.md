@@ -1,4 +1,4 @@
-# Eu sou GABRIEL FIGUEIREDO, Desenvolvedor Front End <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Eu sou Gabriel Figueiredo, Desenvolvedor Front End <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/gabrielfigueiredoo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://whats.link/osix)
